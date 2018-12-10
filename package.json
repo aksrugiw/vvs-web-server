@@ -1,0 +1,10 @@
+{
+    "name": "vvs-web-server",
+    "description": "",
+    "version": "1.0.0",
+    "license": "MIT",
+    "author": {
+        "name": "Kinga Wigurska-Bąk",
+        "email": "kwigurskabak@gmail.com"
+    }
+}
